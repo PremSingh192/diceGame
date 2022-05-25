@@ -1,0 +1,55 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #f2f7ff;
+}
+
+h1 {
+  margin: 30px;
+  font-family: sans-serif;
+  text-shadow: 5px 0 #233130;
+  font-size: 6rem;
+  color: #01041b;
+}
+h2 {
+  margin: 30px;
+  font-family: sans-serif;
+  text-shadow: 5px 0 #233130;
+  font-size: 3rem;
+  color: #1a32cd;
+}
+
+p {
+  font-size: 2rem;
+  color: #0e0876;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+ 
+input{
+  margin-top: 27px;
+    width: 10rem;
+    background: skyblue;
+    border: 2px solid grey;
+    border-radius: 1rem;
+    height: 4rem;
+    color: blue;
+    font-style: bold;
+    font-size: 123%;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+
